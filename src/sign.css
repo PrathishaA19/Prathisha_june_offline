@@ -1,0 +1,73 @@
+.email{
+    color:black;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 12px;
+}
+.email::placeholder{
+    color:black;
+    text-align: center;
+}
+.continue{
+    color:aliceblue;
+    background-color: black;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+.h1{
+    font-size: small;
+}
+.signup{
+    color:blue;
+}
+.phone{
+    background-color: aliceblue;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+.google{
+     background-color: aliceblue;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+
+    padding-top: 1px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+.micro{
+background-color: aliceblue;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+.apple{
+background-color: aliceblue;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    vertical-align: middle;
+    border-radius: 10px;
+}

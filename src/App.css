@@ -1,0 +1,66 @@
+.box{
+  margin-left: 10%;
+  background-color: aliceblue;
+  color: black;
+}
+.logostyle{
+  display: inline;
+  vertical-align: middle;
+}
+.prathi{
+  display: inline;
+  vertical-align: middle;
+}
+.facebook{
+  display: inline;
+  vertical-align: middle;
+  padding-left: 50px;
+}
+.instagram{
+  display: inline;
+  vertical-align: middle;
+  padding-left: 10px;
+}
+.whatsapp{
+  display: inline;
+  vertical-align: middle;
+  padding-left: 10px;
+}
+.youtube{
+  display: inline;
+  vertical-align: middle;
+  padding-left: 10px;
+}
+.telegram{
+  display: inline;
+  vertical-align: middle;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+.search{
+  display: inline;
+  vertical-align: middle;
+  padding-left: 10px;
+  padding-right: 20px;
+  margin-right: 40px;
+}
+.sign in{
+  display: inline;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.cart{
+  display: inline;
+  vertical-align: middle;
+  padding-left: 20px;
+}
+.g{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap:4px;
+  margin-left: 9%;
+}
+.g1{
+  padding-bottom: 5%;
+}
+
